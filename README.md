@@ -1,2 +1,4 @@
 # SSH-support
-SSH Instructions and Documentation
+Public documentation for Smart Show Home projects
+
+[Virtual tour embedding](https://github.com/disruptive-tech-group/SSH-support/blob/master/embedding.md)
