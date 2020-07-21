@@ -37,7 +37,7 @@ For mobiles there are two options:
  
  Iframe URL is provided by SSH and looks like this:
 
-   https://developer.smartshowhome.com/development/pagelink=https://developer.smartshowhome.com&iframeId=10
+    https://developer.smartshowhome.com/development/pagelink=https://developer.smartshowhome.com&iframeId=10
 
 Link parameters:
 * `pagelihk` is a link to redirection page which provides correct data for social media sharing and leads users to development webpage when clicked.
