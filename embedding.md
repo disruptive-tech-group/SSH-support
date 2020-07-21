@@ -3,7 +3,7 @@
 ## Overview
 The Smart Show Home (SSH) 360 Tour is a custom built web application hosted on our SSH server and managed by ‘Client Manager’ integral CMS. Tours can be hosted on multiple websites at the same time via iframe. ie: Client website, Estate Agent website and marketplace websites like Rightmove and Zoopla.
 
-The tour also has a Progressive Web App(PWA) version so it can be saved to home screen and launched in fullscreen without browser.
+The tour also has a Progressive Web App(PWA) version so it can be saved to home screen and launched on smartphones in fullscreen without browser.
 
 Changes within tours made via Client Manager, such as price and description changes, are dynamically updated and can be viewed live. In some instances you may need to refresh the browser to view updates. Software version updates containing new features or bug fixes are all managed at SSH HQ and are also dynamically updated.
 
