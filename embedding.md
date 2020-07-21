@@ -3,7 +3,7 @@
 ## Overview
 The Smart Show Home (SSH) 360 Tour is a custom built web application hosted on our SSH server and managed by ‘Client Manager’ integral CMS. Tours can be hosted on multiple websites at the same time via iframe. ie: Client website, Estate Agent website and marketplace websites like Rightmove and Zoopla.
 
-The tour also has a PWA version and can be saved to home screen.
+The tour also has a Progressive Web App(PWA) version so it can be saved to home screen and launched in fullscreen without browser.
 
 Changes within tours made via Client Manager, such as price and description changes, are dynamically updated and can be viewed live. In some instances you may need to refresh the browser to view updates. Software version updates containing new features or bug fixes are all managed at SSH HQ and are also dynamically updated.
 
@@ -19,7 +19,7 @@ There are 2 steps to host a SSH tour on a domain:
 
 ### Add iframe
 
-Iframe tag should be created within page HTML code. Make sure it will be able to take 100% of page width excluding left and right screen margins. Iframe block requires a title before it. The title may be 'Virtual Show Home'.
+Iframe tag should be created within page HTML code. Make sure it will be able to take 100% of page width excluding left and right screen margins. Iframe block requires a title before it. Please add title before iframe. It may be 'Virtual Show Home'.
 
 ### Iframe options
 Iframe tag should have the following parameters:
